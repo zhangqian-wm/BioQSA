@@ -1,5 +1,5 @@
 # BioQSA
-**BioQSA** (Biological Quasispecies Structure Analyzer) is a software package for quasispecies analysis based on tensor factorization techniques.  
+**BioQSA** is a software package for quasispecies analysis based on tensor factorization techniques.  
 It provides tools for estimating the number of quasispecies, reconstructing their genetic structures, and evaluating the quality of the inferred models.
 
 ## Requirement
