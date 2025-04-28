@@ -2,7 +2,7 @@ import numpy as np
 import scipy.sparse.linalg
 import time
 from scipy import sparse
-from utils import proj_vh, mat2ten, ten2mat
+from src.utils import proj_vh, mat2ten, ten2mat
 
 
 def tensor_factorization(M, P, M_ten, P_ten, k, SVD_S, SVD_Vt):
