@@ -9,7 +9,7 @@ BioQSA/
 ├── examples/      # Example scripts and usage tutorials
 ├── src/           # Source code
 │   ├── BioQSA     # Core algorithm implementations
-│   └── utils     # Helper functions
+│   └── utils      # Helper functions
 ├── results/       # Output directory (generated after running)
 ├── requirements.txt # Python dependencies
 └── README.md      # This file
@@ -21,7 +21,7 @@ python src/demo.py
 ```
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the GNU GENERAL PUBLIC License.
 
 ## Citation
 If you use BioQSA in your research, please cite:
