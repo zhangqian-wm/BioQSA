@@ -1,5 +1,5 @@
 import numpy as np
-from BioQSA import reconstruct_haplotype
+from src.BioQSA import reconstruct_haplotype
 
 
 np.random.seed(1)
